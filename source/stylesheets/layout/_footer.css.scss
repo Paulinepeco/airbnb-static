@@ -1,0 +1,33 @@
+.footer {
+  background: #333333;
+  color: white;
+  font-size: 30px;
+  padding:10px;
+}
+
+
+
+.footer a {
+  color: white;
+}
+
+.footer p {
+  font-size: 12px;
+  margin:10px;
+}
+
+.footer i {
+  margin:10px;
+}
+
+@media screen and (max-width: 767px) {
+  .custom-icons {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .margin {
+    margin-top: 10px;
+  }
+}
